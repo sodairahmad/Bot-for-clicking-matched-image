@@ -1,0 +1,1 @@
+# Bot-for-clicking-matched-image
